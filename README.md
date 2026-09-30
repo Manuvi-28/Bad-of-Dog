@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Bad-of-Dog
-- 👀 I’m interested in bones.
-- 🌱 I’m currently learning barking.
-- 💞️ I’m looking to collaborate on bad things.
-- 📫 How to reach me: whistling
-- 😄 Pronouns: bad of dog / dog with bad
+- 👋 Hi, I’m João
+- 👀 I’m interested in tech.
+- 🌱 I’m currently learning full stack.
+- 💞️ I’m looking to collaborate on new things.
+- 📫 How to reach me: dm.
 - ⚡ Fun fact: badumtss
 
 <!---
